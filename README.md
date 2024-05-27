@@ -1,6 +1,7 @@
 ﻿# Foodprime: Seu Bot de Cardápio Personalizado
 
-Foodprime é um bot que extrai dados de diversas fontes e monta um cardápio.
+Foodprime é um bot que extrai dados de diversas fontes e os exibe.
+![Screenshot 2024-05-27 at 18-28-49 FoodPrime](https://github.com/gabszuba/foodprime/assets/118292803/e0e000ec-4948-4668-a4a6-589818ddc581)
 
 ## Requisitos
 
